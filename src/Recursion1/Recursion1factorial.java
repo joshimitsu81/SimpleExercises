@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;  
 
-public class Recusion1factorial {
+public class Recursion1factorial {
 
 	public static void main	(String args[]) {
 //	 Scanner	intake =	new Scanner(System.in);
